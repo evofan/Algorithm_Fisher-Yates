@@ -3,9 +3,11 @@
 **DEMO**  
 [https://evofan.github.io/Algorithm_Fisher-Yates/index_fisher-yates.html](https://evofan.github.io/Algorithm_Fisher-Yates/index_fisher-yates.html)  
 
+<img src="https://raw.githubusercontent.com/evofan/Algorithm_Fisher-Yates/master/screenshot/yf_sort_view_large4.jpg" width="50%">
+
 reference  
 
-※昔のブログから引っ張って来たのでリンク切れ等後で整理する。  
+※昔のブログから引っ張って来たのでリンク切れ等後で整理する。   
 
 **[ActionScript 3.0] Fisher-Yatesアルゴリズムの可視化│miscellaneous**  
 [http://yamasv.blog92.fc2.com/blog-entry-116.html](http://yamasv.blog92.fc2.com/blog-entry-116.html)  
